@@ -1,7 +1,8 @@
 # Data Description
 
 This project is to provides an analysis on the numerical modeling of a small-scale wave energy converter (WEC).
-A crucial step in the design process of WECs is the numerical modeling. With large-scale modeling, frequency domain modeling is typically used. 
+A crucial step in the design process of WECs is the numerical modeling.
+With large-scale modeling, frequency domain modeling is typically used. 
 This calculates the hydrodynamic coefficients of WEC bodies using linear wave theory. 
 The benefits to using frequency domain modeling is that it has a relatively low computational cost. 
 With small-scale WECs, frequency-domain modeling may not accurately represent the nonlinear interactions the small-scale WEC might experience in a range of wave conditions. 
@@ -35,7 +36,10 @@ This research is supported in part by an appointment with Marine and Hydrokineti
 
 The graduate student taking part in the ORISE program is responsible for the implementation of the data management plan (DMP). There are no official requirements from the Water Power Technology Office (WPTO) that oversees these graduate appointments other than reporting back findings from the research conducted on this fellowship. The graduate student holds ownership in the data being collected for the project. 
 
-The graduate student holds most of the responsibilities when it comes to data collection/data generation, data organization, metadata generation, quality control, data analysis, access control, and DMP implementation. The two PI’s overseeing the project share responsibilities with the data analysis and the metadata generation. 
+The graduate student holds most of the responsibilities when it comes to data collection/data generation, data organization, metadata generation, quality control, data analysis, access control, and DMP implementation. The two PI’s overseeing the project share responsibilities with the data analysis and the metadata generation. Data ownership of the project would transfer over to
+
+Because a majority of the data management responsibilities are on the graduate student participating in this fellowship, if that student was to leave the project, the data would likely fall to either of the PIs. The graduate student would be in charge of ensuring all of the scripts and model input files are on the Github respository and any data collected from simulations is transfered to the PI's if the data is not yet on the publically available respository. Thourough README files will also be required in the Github repository to help describe the metadata as well as giving information on how to use the scripts and model input files to ProteusDS. 
+
 
 # Data Standards and Metadata
 
